@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mariano Galli, a very passionate full stack developer who looks for contribuiting with new era.
+I'm Mariano Galli, a very passionate full stack developer.
 
 - 🔭 I’m currently working on improove my technical skills on web development 
 - 👯 I’m looking to collaborate on any project as developer.
